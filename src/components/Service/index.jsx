@@ -5,7 +5,7 @@ export default function Service() {
     return (
         <div className={styles.service}>
             <div className={styles.shop}>
-                <img src="public/images/logo.jpg" alt="" />
+                <img src="/images/logo.jpg" alt="" />
                 <h1>線上商城</h1>
                 <h3>想買東西不知道從何下手嗎?
                     <br />推薦的精選商品任君挑選
@@ -22,10 +22,10 @@ export default function Service() {
                     <br />快來購買相關課程吧!
                 </h3>
                 <button className={styles.seeMore2}>查看更多</button>
-                <img src="public/images/serviceAside1.jpg" alt="" />
+                <img src="/images/serviceAside1.jpg" alt="" />
             </div>
             <div className={styles.trainroom}>
-                <img src="public/images/serviceAside2.jpg" alt="" />
+                <img src="/images/serviceAside2.jpg" alt="" />
                 <h1>訂練團室</h1>
                 <h3>不知道哪裡可以練團嗎?
                     <br />越氣樂器行不僅提供教學服務
