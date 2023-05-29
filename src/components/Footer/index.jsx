@@ -17,11 +17,11 @@ export default function Footer() {
                     <div className="col-md-3 info">
                         <h3>更多資訊</h3>
                         <a className="fb" href="#">
-                            <img src="public/images/fb.jpg" alt="" />
+                            <img src="/images/fb.jpg" alt="" />
                             <h5>Facebook粉絲專頁</h5>
                         </a>
                         <a className="yt" href="#">
-                            <img src="public/images/yt.jpg" alt="" />
+                            <img src="/images/yt.jpg" alt="" />
                             <h5>Youtube頻道</h5>
                         </a>
                     </div>
