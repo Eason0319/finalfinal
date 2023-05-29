@@ -22,7 +22,7 @@
   padding-left: 60%;
 }
 .seeMore1{
-  background-image: url("public/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
   padding: 20px 50px;
   border-radius: 50px;
   margin-top: 100px;
@@ -30,7 +30,7 @@
   margin-bottom: 50px;
 }
 .classroom {
-  background-image: url("public/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
 }
 .classroom h1{
   font-weight: bolder;
@@ -42,7 +42,7 @@
   margin-left: 10%;
 }
 .seeMore2{
-  background-image: url("public/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
   padding: 20px 50px;
   border-radius: 50px;
   margin-top: 100px;
@@ -57,7 +57,7 @@
   padding-bottom: 5%;
 }
 .trainroom{
-  background-image: url("public/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
 }
 .trainroom img{
   width: 720px;
@@ -79,7 +79,7 @@
   padding-left: 60%;
 }
 .seeMore3{
-  background-image: url("public/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
   padding: 20px 50px;
   border-radius: 50px;
   margin-top: 100px;
