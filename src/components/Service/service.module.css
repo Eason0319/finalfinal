@@ -4,7 +4,7 @@
   height: auto;
 }
 .shop{
-  background-image: url("public/images/main.jpg");
+  background-image: url("/images/main.jpg");
   background-position:center;
   background-size: cover;
   height: 640px;
