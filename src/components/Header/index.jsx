@@ -18,7 +18,7 @@ export default function Header({ title, slogan }) {
                         isOnTouch={isOnTouch}
                     />
                     <Link to="/">
-                        <img src="../../../public/images/logo.jpg" width={"10%"}/>
+                        <img src="/images/logo.jpg" width={"10%"}/>
                     </Link>
                     <Link to="/buy">
                         <h1 className={styles.headerTitle}>
