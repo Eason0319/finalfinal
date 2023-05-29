@@ -11,7 +11,7 @@ const darkTheme = {
   },
   components: {
     Button: {
-      colorPrimary: "#6366f2;",
+      colorPrimary: "#476087;",
       colorPrimaryHover: "#9192f5",
     }
   },
@@ -25,7 +25,7 @@ const lightTheme = {
   },
   components: {
     Button: {
-      colorPrimary: "#6366f2;",
+      colorPrimary: "#476087;",
       colorPrimaryHover: "#9192f5",
     },
   },

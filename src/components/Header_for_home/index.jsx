@@ -18,7 +18,7 @@ export default function Header_for_home ({ title, slogan }) {
                         isOnTouch={isOnTouch}
                     />
                     
-                        <img src="../../../public/images/logo.jpg" width={"10%"}/>
+                        <img src="../../../public/images/logo.jpg" width={"112px"}/>
                     
                     
                         <h1 className={styles.headerTitle}>
@@ -34,7 +34,6 @@ export default function Header_for_home ({ title, slogan }) {
                 
             </div>
             <div className={styles.iconWrap}>
-                <SetColorMode/>
                 <CartSummary/>                
             </div>
 

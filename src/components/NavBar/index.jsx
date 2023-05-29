@@ -29,7 +29,7 @@ export default function NavBar({ open, onClose }) {
                 <NavBarContent />
             </div>
             <Drawer 
-                title="CATEGORY" 
+                title="類別" 
                 placement="left" 
                 onClose={onClose} 
                 open={open} 

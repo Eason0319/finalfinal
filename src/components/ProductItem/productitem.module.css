@@ -2,6 +2,7 @@
    border-radius: 1%;
    border: solid gray 1px;
    padding: 0;
+   background-color: #476087;
 }
 
 .info {
@@ -27,9 +28,7 @@
 .link {
    text-decoration: none;
    align-self: center;
-   color: #8183ff;
 }
-
 .textGray {
    opacity: 0.6;
 }

@@ -25,6 +25,7 @@ export default function Service() {
                 <img src="public/images/serviceAside1.jpg" alt="" />
             </div>
             <div className={styles.trainroom}>
+                <img src="public/images/serviceAside2.jpg" alt="" />
                 <h1>訂練團室</h1>
                 <h3>不知道哪裡可以練團嗎?
                     <br />越氣樂器行不僅提供教學服務
@@ -32,7 +33,6 @@ export default function Service() {
                     <br />歡迎預約！
                 </h3>
                 <button className={styles.seeMore3}>查看更多</button>
-                <img src="public/images/serviceAside2.jpg" alt="" />
             </div>
         </div>
     );

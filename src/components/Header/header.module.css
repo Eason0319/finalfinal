@@ -21,16 +21,6 @@
   line-height: 0.8;
 }
 
-.hrHeaderLine {
-  margin: 25px auto 30px;
-  padding: 0;
-  width: 100px;
-  border: 0;
-  border-top: solid 6px;
-  border-color: #6366f2;
-  opacity: 1;
-}
-
 .iconWrap {
   position: absolute;
   right: 0.5rem;

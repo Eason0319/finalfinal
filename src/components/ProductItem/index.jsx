@@ -24,7 +24,7 @@ export default function ProductItem({ product }) {
             </p>
             <div className={styles.more}>
                <Link to={`/products/id/${product.id}`} className={styles.link}>
-                  See More ...
+                  查看更多 ...
                </Link>
                <span
                   className={styles.textGray}>

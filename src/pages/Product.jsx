@@ -28,13 +28,13 @@ function Product() {
          </Helmet>
          <Header
             className="layoutHeader"
-            title="Product Detail"
-            slogan="An example made by Vite."
+            title="產品詳細"
+            slogan="讓你越買越爭氣"
          />
          <div className="layoutContent container">
             <ProductDetail product={product} />
          </div>
-         <Footer className="layoutFooter" />
+         <Footer/>
       </div>
    );
 }

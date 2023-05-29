@@ -18,7 +18,7 @@ export default function Header({ title, slogan }) {
                         isOnTouch={isOnTouch}
                     />
                     <Link to="/">
-                        <img src="../../../images/logo.jpg" width={"10%"}/>
+                        <img src="../../../public/images/logo.jpg" width={"10%"}/>
                     </Link>
                     <Link to="/buy">
                         <h1 className={styles.headerTitle}>
@@ -33,11 +33,9 @@ export default function Header({ title, slogan }) {
                 </div>
 
 
-                <hr className={styles.hrHeaderLine} />
                 <NavBar open={isOnTouch} onClose={() => setIsOnTouch(false)} />
             </div>
             <div className={styles.iconWrap}>
-                <SetColorMode/>
                 <CartSummary/>                
             </div>
 

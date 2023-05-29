@@ -48,10 +48,10 @@ function ProductDetail({ product }) {
                      NT${product.price}.00
                   </p>
                   <p className={styles.status}>
-                     Status: {product.countInStock > 0 ? "In Stock" : "Unavailable."}
+                     狀態: {product.countInStock > 0 ? "尚有庫存" : "售罄"}
                   </p>
                   <div className={styles.qty}>
-                     Qty: {"   "}
+                     庫存: {"   "}
                      <Select
                         defaultValue={qty}
                         key={qty}                        
@@ -66,7 +66,7 @@ function ProductDetail({ product }) {
                      </Select>
                   </div>
                   <p className={styles.qty}>
-                     Total Price: {product.price * qty}
+                     總金額: {product.price * qty}
                   </p>
                   <AddToBasket  product={product} qty={qty} />
                </div>

@@ -1,4 +1,13 @@
 /* General Styles */
+#root{
+  background-color: #F5EBDA;
+}
+:where(.css-dev-only-do-not-override-88qs6h).ant-drawer .ant-drawer-body, :where(.css-dev-only-do-not-override-88qs6h).ant-drawer .ant-drawer-header{
+  background-color: #CEF2FF;
+}
+:where(.css-dev-only-do-not-override-88qs6h).ant-badge .ant-badge-count{
+  background-color: #476087 !important;
+}
 /* RWD Container */
 .container {
   width: 100%;

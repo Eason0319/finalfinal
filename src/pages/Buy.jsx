@@ -36,7 +36,7 @@ function Buy() {
       <Header
         className="layoutHeader"
         title={title}
-        slogan="讓你越買越生氣"
+        slogan="讓你越買越爭氣"
       />
       <div className="layoutCOntent container">
         <ProductList products={_products} />
