@@ -5,7 +5,7 @@ import { HelmetProvider } from 'react-helmet-async'
 import Buy from './pages/Buy'
 import Product from './pages/Product';
 import { darkTheme, lightTheme } from './theme';
-import { selectLightMode } from "./redux/colorSLice";
+import { selectLightMode } from "./redux/colorSlice";
 import Home from './pages/Home';
 import ScrollToTop from './ScrollToTop';
 
