@@ -1,6 +1,6 @@
 /*最新消息輪播*/
 .round{
-  background-image: url("public/images/bg2.jpg");
+  background-image: url("/images/bg2.jpg");
   margin-top: -80px;
   margin-bottom: -80px;
   padding-bottom: 40px;
