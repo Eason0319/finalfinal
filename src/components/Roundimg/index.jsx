@@ -47,32 +47,32 @@ export default class SimpleSlider extends Component {
         </div>
         <Slider {...settings} className={styles.slider}>
           <div className={styles.newsimg}>
-            <img src="public/images/news1.jpg" alt="" />
+            <img src="/images/news1.jpg" alt="" />
             <h2>【 YAMAHA P-S500 】</h2>
             <h4>輔助學習的最新利器！！</h4>
           </div>
           <div className={styles.newsimg}>
-            <img src="public/images/news2.jpg" alt="" />
+            <img src="/images/news2.jpg" alt="" />
             <h2>【 關於木吉他 】</h2>
             <h4>木頭到底差在哪裡?</h4>
           </div>
           <div className={styles.newsimg}>
-            <img src="public/images/news3.jpg" alt="" />
+            <img src="/images/news3.jpg" alt="" />
             <h2>【 關於商品 】</h2>
             <h4>電容 / 動圈 / USB 麥克風差在哪？</h4>
           </div>
           <div className={styles.newsimg}>
-            <img src="public/images/news4.jpg" alt="" />
+            <img src="/images/news4.jpg" alt="" />
             <h2>【 關於商品 】</h2>
             <h4>吉他手的金手指<br />移調夾是什麼？怎麼用？</h4>
           </div>
           <div className={styles.newsimg}>
-            <img src="public/images/news5.jpg" alt="" />
+            <img src="/images/news5.jpg" alt="" />
             <h2>【 關於工程部 】</h2>
             <h4>工程部有話要說－舞台的奧秘。</h4>
           </div>
           <div className={styles.newsimg}>
-            <img src="public/images/news6.jpg" alt="" />
+            <img src="/images/news6.jpg" alt="" />
             <h2>【 關於商品 】</h2>
             <h4>越氣樂器行嚴選2022貝斯入門推薦！</h4>
           </div>
