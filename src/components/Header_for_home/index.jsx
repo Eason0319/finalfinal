@@ -18,7 +18,7 @@ export default function Header_for_home ({ title, slogan }) {
                         isOnTouch={isOnTouch}
                     />
                     
-                        <img src="../../../public/images/logo.jpg" width={"112px"}/>
+                        <img src="/images/logo.jpg" width={"112px"}/>
                     
                     
                         <h1 className={styles.headerTitle}>
